@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": { "Maxc\\": "src/" }
+    },
+    "require": {
+        "silex/silex": "~1.2",
+        "ivoba/redbean-service-provider": "dev-master"
+
+    }
+}

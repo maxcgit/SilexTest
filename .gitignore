@@ -1,0 +1,7 @@
+/db/*
+!/db/.gitkeep
+/vendor/
+/composer.phar
+/composer.lock
+*.*~
+.idea/
